@@ -1,9 +1,6 @@
-## Hi there 👋
+## NGUYỄN ĐỨC BÁCH - UNETI
 
-<!--
-**ht11115/ht11115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# University: Trường Đại học - Kinh tế Kĩ thuật Công Nghiệp
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
